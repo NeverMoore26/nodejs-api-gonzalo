@@ -1,6 +1,6 @@
 Node.js & MySQL API Tutorial
 
-📋 Requisitos
+📋 Requisitos <br>
 Dependencias Principales:
 Node.js: La versión de Node.js debería ser compatible con las dependencias de tu proyecto. Puedes especificar la versión mínima requerida. Por ejemplo, Node.js v14.0.0 o superior.
 
